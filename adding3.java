@@ -12,5 +12,16 @@ public class adding3 {
         char c = 'H';
 
         boolean b = true;
+
+        System.out.println(b);
+        System.out.println(num1);
+        System.out.println(sh);
+        System.out.println(l);
+        System.out.println(marks);
+        System.out.println(d);
+        System.out.println(c);
+        System.out.println(by);
+        
+        
     }
 }
