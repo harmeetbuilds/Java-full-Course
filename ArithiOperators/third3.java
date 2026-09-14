@@ -1,4 +1,4 @@
-package operators;
+package ArithiOperators;
 
 public class third3 {
     public static void main(String[] args) {
