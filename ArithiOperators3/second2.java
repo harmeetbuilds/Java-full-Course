@@ -1,4 +1,4 @@
-package ArithiOperators3;
+package ArithiOperators;
 
 public class second2 {
     public static void main(String[] args) {

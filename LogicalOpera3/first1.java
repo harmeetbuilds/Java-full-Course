@@ -1,4 +1,4 @@
-package LogicalOpera3;
+package LogicalOpera;
 
 public class first1 {
     public static void main(String[] args) {

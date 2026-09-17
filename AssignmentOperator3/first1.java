@@ -1,4 +1,4 @@
-package AssignmentOperator3;
+package AssignmentOperator;
 
 public class first1 {
     public static void main(String[] args) {
