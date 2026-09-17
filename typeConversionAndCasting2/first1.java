@@ -1,4 +1,4 @@
-package typeConversionAndCasting;
+package typeConversionAndCasting2;
 
 public class first1 {
     

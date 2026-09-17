@@ -1,5 +1,5 @@
 //Ternary Operator
-package conditionalStatement2;
+package conditionalStatement4;
 
 public class forth {
     public static void main(String[] args) {

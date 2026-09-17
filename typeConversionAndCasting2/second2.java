@@ -1,4 +1,4 @@
-package typeConversionAndCasting;
+package typeConversionAndCasting2;
 
 public class second2 {
     public static void main(String[] args) {

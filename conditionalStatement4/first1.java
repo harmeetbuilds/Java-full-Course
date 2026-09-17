@@ -1,4 +1,4 @@
-package conditionalStatement2;
+package conditionalStatement4;
 
 public class first1 {
     public static void main(String[] args) {

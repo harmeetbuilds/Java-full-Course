@@ -1,3 +1,4 @@
+package JavaSyntax1;
 public class adding3 {
     public static void main(String[] args) {
 
