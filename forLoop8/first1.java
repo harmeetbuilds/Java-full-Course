@@ -3,7 +3,7 @@ package forLoop8;
 public class first1 {
     public static void main(String[] args) {
         for(int i = 0; i<=10; i++){
-            System.out.println("Harmeet Singh");
+            System.out.println("Harmeet Singh");    
         }
     }
 }

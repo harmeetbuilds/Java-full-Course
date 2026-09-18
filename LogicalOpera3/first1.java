@@ -1,4 +1,4 @@
-package LogicalOpera;
+package LogicalOpera3;
 
 public class first1 {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class first1 {
         boolean result1 = (x < y) || (b < a);
         System.out.println(result1);
 
-        boolean Final = !(result && result1);
+        boolean Final = !(result && result1);   
 
         System.out.println(Final);
 
