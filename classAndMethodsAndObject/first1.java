@@ -11,7 +11,7 @@ class calculator                   //this is a class made for the
 }
 
 
-public class first1 {
+public class first1{
     public static void main(String[] args) {
 
         calculator calc = new calculator();             //this is how we create the object 
